@@ -1,4 +1,4 @@
-# Web-resources-for-statistics and machine learning
+# Web-resources-for-stats-and-ML
 
 GENERAL ML
 
