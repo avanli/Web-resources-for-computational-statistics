@@ -2,9 +2,7 @@
 
 ## GENERAL ML
 
-[Tidy Modeling with R](https://www.tmwr.org/pre-proc-table)
-
-[Tidy Modeling with R (Full)](https://www.tmwr.org/)
+[Tidy Modeling with R](https://www.tmwr.org/)
 
 [Applied Machine Learning Using mlr3 in R](https://mlr3book.mlr-org.com/)
 
@@ -12,13 +10,22 @@
 
 [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 
-[Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
+[Deep Learning - Foundations and Concepts (Bishop) ](https://www.bishopbook.com/)
 
 [Python Data Science Handbook (VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [scikit-image Documentation](https://scikit-image.org/docs/stable/user_guide/index.html)
 
 [PyTorch Vision Examples](https://pytorch.org/vision/stable/auto_examples/index.html)
+
+## DEEP LEARNING 
+[Large language model tools in R](https://luisdva.github.io/llmsr-book/)
+
+[Neural Networks: Zero To Hero (Karpathy)](https://karpathy.ai/zero-to-hero.html)
+
+[A Nobel Prize for Plagiarism (Jurgen)](https://people.idsia.ch/~juergen/physics-nobel-2024-plagiarism.html)
+
+[Tansformer explained](https://poloclub.github.io/transformer-explainer/)
 
 ## ECONOMETRICS
 
@@ -36,7 +43,11 @@
 
 [Geocomputation with R](https://r.geocompx.org/index.html)
 
-[Analyzing US Census Data](https://walker-data.com/census-r/census-geographic-data-and-applications-in-r.html)
+[Analyzing US Census Data with R](https://walker-data.com/census-r/census-geographic-data-and-applications-in-r.html)
+
+[Spatial Data Science](https://r-spatial.org/book/07-Introsf.html)
+
+[Geospatial Health Data Modeling (Moraga)] (https://www.paulamoraga.com/book-geospatial/)
 
 ## CAUSAL INFERENCE
 
@@ -44,11 +55,17 @@
 
 [Causal Inference and Machine Learning: In Economics, Social, and Health Sciences](https://www.causalmlbook.com/)
 
-[Machine Learning & Causal Inference: A Short Course (Stanford Graduate School of Business)](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil/research/methods/ai-machine-learning)
+[Machine Learning & Causal Inference: A Short Course (Stanford)](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil/research/methods/ai-machine-learning)
+
+[Machine Learning-based Causal Inference Tutorial (Stanford)](https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/)
 
 [Explanatory Model Analysis](https://ema.drwhy.ai/)
 
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
+[Harrell courses](https://hbiostat.org/course/)
+
+[Causal Book: Design Patterns in Causal Inference ](https://causalbook.com/Table+of+Contents)
 
 ## PYTHON & R LIBRARIES
 
@@ -68,10 +85,3 @@
 
 [Minerva Research Priorities](https://minerva.defense.gov/Research/Research-Priorities/)
 
-## OTHER RESOURCES
-
-[Higher Ed Dive](https://www.highereddive.com/)
-
-[Florida Phoenix](https://floridaphoenix.com/)
-
-[The Independent Florida Alligator](https://www.alligator.org/)
